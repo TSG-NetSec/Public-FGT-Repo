@@ -1,7 +1,11 @@
 ##TFS IP BLOCKLIST##
 
-## Ticket 163832 - Mar 5, 2024 ##
 101.36.106.134
+43.157.9.49
+152.32.225.108
+185.94.111.1
+43.135.162.168
+43.129.55.47
 
 ## Ticket# - Date Kung kelan nirequest ##
 ## <IP Address> ##
