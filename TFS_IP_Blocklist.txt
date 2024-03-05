@@ -1,0 +1,6 @@
+##TFS IP BLOCKLIST##
+43.157.9.49
+45.250.158.38
+
+## Ticket# - Date Kung kelan nirequest ##
+## <IP Address> ##
