@@ -123,5 +123,5 @@
 ## TN 167842 - Mar 19 2024 ##
 49.51.47.179
 
-## Ticket# - Date Kung kelan nirequest ##
+## Ticket# - Date of Request ##
 ## <IP Address> ##
