@@ -340,6 +340,9 @@
 165.154.41.47
 106.75.153.59
 106.75.6.165
+## Joey added GISS request
+45.227.254.8
+
 
 
 ## Ticket# - Date of Request ##
