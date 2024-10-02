@@ -992,6 +992,8 @@
 106.75.66.161
 ## TN 224137 - October 1 2024 ##
 107.150.103.155
+## TN 224481 - October 2 2024 ##
+118.193.57.59
 
 ## Ticket# - Date of Request ##
 ## <IP Address> ##
