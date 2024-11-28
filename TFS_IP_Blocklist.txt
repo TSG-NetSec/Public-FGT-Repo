@@ -1431,6 +1431,8 @@
 47.74.62.106 
 ## TN ​240237 - November 28 2024 ##
 104.152.52.225
+## TN ​734147 - November 28 2024 ##
+47.254.148.248 
 
 ## Ticket# - Date of Request ##
 ## <IP Address> ##
