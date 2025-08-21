@@ -2813,6 +2813,8 @@
 185.177.72.144
 ## Ticket 312239 - August 21, 2025 ##
 159.65.115.120
+## Ticket 312248 - August 21, 2025 ##
+159.138.134.252
 
 ## Ticket# - Date of Request ##
 ## <IP Address> ##
