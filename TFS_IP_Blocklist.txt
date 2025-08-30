@@ -2877,6 +2877,8 @@
 123.253.22.8
 ## Ticket 314685 - August 31, 2025 ##
 156.245.248.226
+## Ticket 314710 - August 31, 2025 ##
+47.115.224.134
 
 ## Ticket# - Date of Request ##
 ## <IP Address> ##
