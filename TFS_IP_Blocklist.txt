@@ -2891,6 +2891,8 @@
 202.100.212.118
 ## Ticket 315630 - September 3, 2025 ##
 106.75.21.34
+## Ticket 315671 - September 3, 2025 ##
+47.109.48.21
 
 ## Ticket# - Date of Request ##
 ## <IP Address> ##
