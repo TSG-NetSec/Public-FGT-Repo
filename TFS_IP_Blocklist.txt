@@ -2951,6 +2951,10 @@
 148.153.56.174
 ## Ticket 317157 - September 10, 2025 ##
 94.74.164.120
+## Ticket 317676 - September 11, 2025 ##
+152.32.225.94
+## Ticket 317906 - September 12, 2025 ##
+198.55.98.117
 
 ## Ticket# - Date of Request ##
 ## <IP Address> ##
