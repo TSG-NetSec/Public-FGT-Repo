@@ -3017,6 +3017,8 @@
 103.100.211.174
 ## Ticket 324117 - October 7, 2025 ##
 196.188.63.85
+## Ticket 324215 - October 8, 2025 ##
+195.178.110.109
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
