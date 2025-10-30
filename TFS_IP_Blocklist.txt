@@ -3115,6 +3115,8 @@
 165.154.206.35
 ## Ticket 328217 - October 30, 2025 ##
 192.210.160.141
+## Ticket 328228 - October 30, 2025 ##
+58.59.233.135
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
