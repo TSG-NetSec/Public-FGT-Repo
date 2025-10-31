@@ -3127,6 +3127,8 @@
 78.153.140.176 
 ## Ticket 328340 - October 31, 2025 ##
 101.132.23.90
+## Ticket 328343 - October 31, 2025 ##
+66.240.192.82 
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
