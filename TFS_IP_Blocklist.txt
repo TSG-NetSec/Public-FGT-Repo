@@ -3143,6 +3143,8 @@
 123.139.218.0  
 ## Ticket 328489 - November 1, 2025 ##
 45.148.10.250   
+## Ticket 328490 - November 1, 2025 ##
+45.148.10.247    
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
