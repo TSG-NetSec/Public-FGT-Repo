@@ -3261,6 +3261,10 @@
 152.32.182.165
 ## Ticket 331782 - November 18, 2025 ##
 124.198.132.121
+## Ticket 331949 - November 19, 2025 ##
+192.159.99.180
+## Ticket 331988 - November 19, 2025 ##
+131.196.48.84
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
