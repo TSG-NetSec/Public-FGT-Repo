@@ -3313,6 +3313,8 @@
 60.13.138.132
 ## Ticket 332935 - November 25, 2025 ##
 115.190.12.175
+## Ticket 332998 - November 25, 2025 ##
+82.66.241.245
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
