@@ -3421,6 +3421,8 @@
 128.14.167.117
 ## Ticket 336568 - December 15, 2025 ##
 91.224.92.109
+## Ticket 336596 - December 15, 2025 ##
+212.73.148.6
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
