@@ -3449,6 +3449,10 @@
 89.42.231.244 
 ## Ticket 336967 - December 18, 2025 ##
 81.29.142.100
+## Ticket 336974 - December 18, 2025 ##
+103.224.243.145
+## Ticket 336977 - December 18, 2025 ##
+118.194.251.17
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
