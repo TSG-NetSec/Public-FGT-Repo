@@ -3533,6 +3533,8 @@
 156.232.94.17 
 ## Ticket 338253 - December 27, 2025 ##
 103.252.73.37
+## Ticket 338414 - December 29, 2025 ##
+130.12.180.18
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
