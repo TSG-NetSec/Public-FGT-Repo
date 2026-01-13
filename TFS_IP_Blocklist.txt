@@ -3625,6 +3625,10 @@
 43.251.16.253
 ## Ticket 340567 - January 12, 2026 ##
 84.247.128.226
+## Ticket 340684 - January 13, 2026 ##
+170.65.149.253
+## Ticket 340698 - January 13, 2026 ##
+130.12.180.19
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
