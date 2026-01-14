@@ -3633,6 +3633,8 @@
 185.177.72.12
 ## Ticket 340835 - January 14, 2026 ##
 89.42.231.200
+## Ticket 340953 - January 14, 2026 ##
+38.248.14.48
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
