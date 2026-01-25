@@ -3673,6 +3673,8 @@
 94.26.106.113
 ## Ticket 342439 - January 24, 2026 ##
 87.121.84.57
+## Ticket 342605 - January 25, 2026 ##
+91.92.242.214
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
