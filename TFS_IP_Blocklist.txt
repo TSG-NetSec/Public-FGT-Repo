@@ -3705,6 +3705,8 @@
 87.120.191.67
 ## Ticket 346192 - February 17, 2026 ##
 67.213.118.179
+## Ticket 347180 - February 23, 2026 ##
+79.124.49.226
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
