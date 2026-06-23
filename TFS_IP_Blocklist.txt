@@ -3923,6 +3923,8 @@
 106.75.190.150
 ## Ticket 371901 - June 9, 2026 ##
 45.148.10.67
+## Ticket 3024 - June 24, 2026 ##
+192.142.24.54
 
 ## Ticket# - Date of Request ##
 ## <Source IP Address> ##
