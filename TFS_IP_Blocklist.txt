@@ -4031,6 +4031,8 @@
 185.12.59.118
 ## Ticket 9246 - August 14, 2026 ##
 45.156.128.177
+## Ticket 9247 - August 14, 2026 ##
+71.6.134.233
 
 ## Ticket#- Date of Request ##
 ## <Source IP Address> ##
