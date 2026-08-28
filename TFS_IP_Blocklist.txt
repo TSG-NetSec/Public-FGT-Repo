@@ -4122,8 +4122,11 @@
 104.152.52.115
 ## Ticket 13552 - August 26, 2026 ##
 176.65.148.226
-## Ticket 14308 - August 26, 2026 ##
+## Ticket 14308 - August 28, 2026 ##
 45.205.1.240
+## Ticket 14323 - August 28, 2026 ##
+43.136.79.172
+
 
 
 ## Ticket#- Date of Request ##
