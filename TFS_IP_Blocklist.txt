@@ -4200,6 +4200,10 @@
 193.32.204.199
 ## Ticket 27205 - October 4, 2026 ##
 80.94.92.65
+## Ticket 27214 - October 4, 2026 ##
+45.130.203.232
+45.130.203.244
+45.130.203.172
 
 ## Ticket#- Date of Request ##
 ## <Source IP Address> ##
