@@ -4224,6 +4224,8 @@
 156.225.1.58
 ## Ticket 27922 - October 6, 2026 ##
 195.178.110.106
+## Ticket 27970 - October 7, 2026 ##
+122.96.28.45
 
 ## Ticket#- Date of Request ##
 ## <Source IP Address> ##
