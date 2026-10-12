@@ -4230,6 +4230,8 @@
 45.138.12.26
 ## Ticket 29893 - October 12, 2026 ##
 176.65.148.122
+## Ticket 29971 - October 13, 2026 ##
+45.148.10.171
 
 ## Ticket#- Date of Request ##
 ## <Source IP Address> ##
