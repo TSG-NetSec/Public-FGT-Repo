@@ -4301,6 +4301,12 @@
 102.244.97.185
 ## Ticket 34747 - October 26, 2026 ##
 93.152.221.96
+## Ticket 34888 - October 27, 2026 ##
+45.139.104.172
+## Ticket 34924 - October 27, 2026 ##
+185.218.86.14
+## Ticket 34945 - October 27, 2026 ##
+71.6.134.204
 
 ## Ticket#- Date of Request ##
 ## <Source IP Address> ##
