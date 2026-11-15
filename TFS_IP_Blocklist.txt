@@ -4343,5 +4343,14 @@
 87.192.41.180
 ## Ticket 40252 - November 13, 2026 ##
 79.124.59.82
+## Ticket 40807 - November 15, 2026 ##
+134.209.64.147
+## Ticket 40828 - November 15, 2026 ##
+102.220.163.241
+
+
+
+
+
 ## Ticket#- Date of Request ##
 ## <Source IP Address> ##
